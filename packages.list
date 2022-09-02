@@ -1,0 +1,17 @@
+atom-ide-base@3.4.0
+atom-ide-code-format@1.0.3
+atom-ide-datatip@0.25.0
+atom-ide-definitions@0.4.2
+atom-ide-hyperclick@1.0.11
+atom-ide-markdown-service@2.1.0
+atom-ide-outline@3.2.0
+atom-ide-signature-help@0.16.0
+atom-ide-ui@0.13.0
+autocomplete-python@1.17.1
+autocomplete-python-jedi@1.10.3-0
+busy-signal@2.0.1
+ide-python@1.9.7
+intentions@2.1.1
+linter@3.4.0
+linter-ui-default@3.4.1
+script@3.32.2
